@@ -1,0 +1,35 @@
+
+# Deep Learning et Computer Vision
+torch
+torchvision
+opencv-python-headless
+Pillow
+timm
+
+# Traitement des données
+numpy
+pandas
+scipy
+scikit-learn
+
+# Visualisation
+matplotlib
+seaborn
+
+# API
+fastapi
+uvicorn[standard]
+python-multipart
+pydantic
+
+# Suivi des expériences
+mlflow
+
+
+
+# Tests
+pytest
+httpx
+
+# Configuration
+python-dotenv
