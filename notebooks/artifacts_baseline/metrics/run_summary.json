@@ -1,0 +1,92 @@
+{
+  "config": {
+    "seed": 42,
+    "device": "cpu",
+    "categories": [
+      "bottle",
+      "carpet",
+      "metal_nut"
+    ],
+    "data_root": "/workspace/data/mvtec",
+    "models_dir": "/workspace/models",
+    "output_dir": "/workspace/notebooks/artifacts_baseline",
+    "image_size": 224,
+    "backbone": "resnet18",
+    "layers": [
+      "layer2",
+      "layer3"
+    ],
+    "train_fraction": 0.7,
+    "val_fraction": 0.15,
+    "calibration_fraction": 0.15,
+    "max_train_images_cpu": 80,
+    "patches_per_image": 64,
+    "coreset_candidate_cap": 3000,
+    "coreset_size": 256,
+    "coreset_projection_dim": 64,
+    "pixel_smoothing_sigma": 2.0
+  },
+  "versions": {
+    "python": "3.11.18",
+    "torch": "2.15.0+cu132",
+    "torchvision": "0.29.2+cu132",
+    "numpy": "2.4.6",
+    "pandas": "3.1.1"
+  },
+  "results": [
+    {
+      "category": "bottle",
+      "n_test": 83,
+      "image_AUROC": 0.9761904761904763,
+      "image_AP": 0.9913206894433928,
+      "pixel_AUROC": 0.9754300945797916,
+      "pixel_AUPRO": 0.9419631465484496,
+      "eval_seconds": 10.3
+    },
+    {
+      "category": "carpet",
+      "n_test": 117,
+      "image_AUROC": 0.9081059390048153,
+      "image_AP": 0.970750854775474,
+      "pixel_AUROC": 0.9786025809237701,
+      "pixel_AUPRO": 0.9246161515560152,
+      "eval_seconds": 18.6
+    },
+    {
+      "category": "metal_nut",
+      "n_test": 115,
+      "image_AUROC": 0.8294232649071359,
+      "image_AP": 0.9524400865470994,
+      "pixel_AUROC": 0.9053541188850176,
+      "pixel_AUPRO": 0.8403834898200684,
+      "eval_seconds": 14.7
+    }
+  ],
+  "bank_info": [
+    {
+      "category": "bottle",
+      "train_images_used": 80,
+      "candidate_patches": 5120,
+      "coreset_patches": 256,
+      "bank_MB": 0.375,
+      "build_seconds": 6.56
+    },
+    {
+      "category": "carpet",
+      "train_images_used": 80,
+      "candidate_patches": 5120,
+      "coreset_patches": 256,
+      "bank_MB": 0.375,
+      "build_seconds": 8.65
+    },
+    {
+      "category": "metal_nut",
+      "train_images_used": 80,
+      "candidate_patches": 5120,
+      "coreset_patches": 256,
+      "bank_MB": 0.375,
+      "build_seconds": 6.12
+    }
+  ],
+  "dataset_root": "/workspace/data/mvtec"
+}
