@@ -1,35 +1,48 @@
 
-# Deep Learning et Computer Vision
+# Deep learning et PatchCore
+# Versions de PyTorch / torchvision assorties
 torch
 torchvision
-opencv-python-headless
-Pillow
+anomalib
 timm
 
-# Traitement des données
+# Traitement d'images et augmentations photometriques
+opencv-python-headless
+Pillow
+albumentations
+scikit-image
+
+# Calcul scientifique, voisinage kNN et calibration
 numpy
-pandas
 scipy
+pandas
 scikit-learn
 
-# Visualisation
+# Visualisations et experimentation
 matplotlib
 seaborn
+tqdm
+PyYAML
 
-# API
+# API et demo
 fastapi
 uvicorn[standard]
 python-multipart
 pydantic
-
-# Suivi des expériences
-mlflow
-
-
-
-# Tests
-pytest
 httpx
 
-# Configuration
+# Suivi des experiences / MLOps
+mlflow
+
+# Environnement notebook
+jupyterlab
+ipykernel
+ipywidgets
+
+# Donnees
+kagglehub
+
+# Tests et configuration
+pytest
+pytest-cov
 python-dotenv
