@@ -1,0 +1,21 @@
+seed: 42
+dataset: MVTec AD (synthétique)
+shifts:
+- brightness
+- contrast
+- gamma
+- color_temperature
+- directional_shading
+severities:
+- 1
+- 3
+- 5
+alpha: 0.05
+drift_val_images: 8
+aupro_thresholds: 80
+pixel_metrics: true
+baseline_config: /workspace/notebooks/configs/baseline_cpu.yaml
+categories:
+- bottle
+- carpet
+- metal_nut

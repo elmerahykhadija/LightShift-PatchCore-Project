@@ -1,0 +1,70 @@
+{
+  "baseline_config": {
+    "seed": 42,
+    "device": "cpu",
+    "categories": [
+      "bottle",
+      "carpet",
+      "metal_nut"
+    ],
+    "data_root": "/workspace/data/mvtec",
+    "models_dir": "/workspace/models",
+    "output_dir": "/workspace/notebooks/artifacts_baseline",
+    "image_size": 224,
+    "backbone": "resnet18",
+    "layers": [
+      "layer2",
+      "layer3"
+    ],
+    "train_fraction": 0.7,
+    "val_fraction": 0.15,
+    "calibration_fraction": 0.15,
+    "max_train_images_cpu": 80,
+    "patches_per_image": 64,
+    "coreset_candidate_cap": 3000,
+    "coreset_size": 256,
+    "coreset_projection_dim": 64,
+    "pixel_smoothing_sigma": 2.0
+  },
+  "lighting_config": {
+    "seed": 42,
+    "dataset": "MVTec AD (synth\u00e9tique)",
+    "shifts": [
+      "brightness",
+      "contrast",
+      "gamma",
+      "color_temperature",
+      "directional_shading"
+    ],
+    "severities": [
+      1,
+      3,
+      5
+    ],
+    "alpha": 0.05,
+    "drift_val_images": 8,
+    "aupro_thresholds": 80,
+    "pixel_metrics": true,
+    "baseline_config": "/workspace/notebooks/configs/baseline_cpu.yaml",
+    "categories": [
+      "bottle",
+      "carpet",
+      "metal_nut"
+    ]
+  },
+  "mvtec_root": "/workspace/data/mvtec",
+  "versions": {
+    "python": "3.11.18",
+    "torch": "2.15.0+cu132",
+    "torchvision": "0.29.2+cu132",
+    "numpy": "2.4.6"
+  },
+  "source_thresholds": {
+    "bottle": 4.585290431976318,
+    "carpet": 3.590598225593567,
+    "metal_nut": 5.414709758758545
+  },
+  "results_csv": "/workspace/notebooks/artifacts_lighting/metrics/lighting_results.csv",
+  "comparison_csv": "/workspace/notebooks/artifacts_lighting/metrics/lighting_vs_clean.csv",
+  "feature_drift_csv": "/workspace/notebooks/artifacts_lighting/metrics/feature_drift_validation.csv"
+}

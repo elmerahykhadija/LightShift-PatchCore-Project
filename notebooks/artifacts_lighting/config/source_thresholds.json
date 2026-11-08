@@ -1,0 +1,13 @@
+{
+  "alpha": 0.05,
+  "thresholds": {
+    "bottle": 4.585290431976318,
+    "carpet": 3.590598225593567,
+    "metal_nut": 5.414709758758545
+  },
+  "validation_counts": {
+    "bottle": 31,
+    "carpet": 42,
+    "metal_nut": 33
+  }
+}
