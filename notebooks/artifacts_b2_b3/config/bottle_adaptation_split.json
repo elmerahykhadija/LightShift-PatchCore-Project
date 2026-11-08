@@ -1,0 +1,48 @@
+{
+  "source_stats": [
+    "bottle/train/good/204.png",
+    "bottle/train/good/186.png",
+    "bottle/train/good/189.png",
+    "bottle/train/good/184.png",
+    "bottle/train/good/000.png",
+    "bottle/train/good/107.png",
+    "bottle/train/good/144.png",
+    "bottle/train/good/083.png",
+    "bottle/train/good/100.png",
+    "bottle/train/good/074.png",
+    "bottle/train/good/010.png",
+    "bottle/train/good/149.png"
+  ],
+  "b2_alignment": [
+    "bottle/train/good/136.png",
+    "bottle/train/good/064.png",
+    "bottle/train/good/182.png",
+    "bottle/train/good/036.png",
+    "bottle/train/good/194.png",
+    "bottle/train/good/163.png",
+    "bottle/train/good/035.png",
+    "bottle/train/good/140.png"
+  ],
+  "b3_calibration": [
+    "bottle/train/good/097.png",
+    "bottle/train/good/102.png",
+    "bottle/train/good/014.png",
+    "bottle/train/good/181.png",
+    "bottle/train/good/047.png",
+    "bottle/train/good/006.png",
+    "bottle/train/good/077.png",
+    "bottle/train/good/022.png",
+    "bottle/train/good/030.png",
+    "bottle/train/good/192.png",
+    "bottle/train/good/110.png",
+    "bottle/train/good/019.png",
+    "bottle/train/good/141.png",
+    "bottle/train/good/139.png",
+    "bottle/train/good/113.png",
+    "bottle/train/good/175.png",
+    "bottle/train/good/041.png",
+    "bottle/train/good/205.png",
+    "bottle/train/good/034.png",
+    "bottle/train/good/058.png"
+  ]
+}

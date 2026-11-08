@@ -1,0 +1,46 @@
+{
+  "project": "LightShift-PatchCore",
+  "notebook": "03_b2_b3_cpu",
+  "config": {
+    "seed": 42,
+    "alpha": 0.05,
+    "n_source_stats": 12,
+    "n_b2_align": 8,
+    "n_b3_calib": 20,
+    "fast_mode": true,
+    "conditions": [
+      [
+        "clean",
+        0
+      ],
+      [
+        "brightness",
+        5
+      ],
+      [
+        "contrast",
+        5
+      ],
+      [
+        "directional_shading",
+        5
+      ]
+    ],
+    "pixel_metrics": false,
+    "b2_epsilon": 1e-06,
+    "backbone": "resnet18",
+    "layers": [
+      "layer2",
+      "layer3"
+    ],
+    "image_size": 224,
+    "source_config": "/workspace/notebooks/configs/baseline_cpu.yaml"
+  },
+  "n_results": 48,
+  "metrics_csv": "/workspace/notebooks/artifacts_b2_b3/metrics/b2_b3_results.csv",
+  "data_root": "/workspace/data/mvtec",
+  "next_steps": [
+    "04_B1",
+    "05_B4_CPU"
+  ]
+}
