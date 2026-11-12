@@ -1,0 +1,77 @@
+{
+  "notebook": "04_B1_CPU",
+  "categories": [
+    "bottle",
+    "carpet",
+    "metal_nut"
+  ],
+  "conditions": [
+    [
+      "clean",
+      0
+    ],
+    [
+      "brightness",
+      5
+    ],
+    [
+      "contrast",
+      5
+    ],
+    [
+      "directional_shading",
+      5
+    ]
+  ],
+  "config": {
+    "seed": 42,
+    "views_per_image": 2,
+    "n_train_images": 80,
+    "patches_per_image_total": 64,
+    "candidate_cap": 3000,
+    "coreset_projection_dim": 64,
+    "coreset_size": 256,
+    "augmentation_kinds": [
+      "brightness",
+      "contrast",
+      "gamma",
+      "color_temperature",
+      "directional_shading"
+    ],
+    "augmentation_severities": [
+      1,
+      3,
+      5
+    ],
+    "source_threshold_alpha": 0.05,
+    "fast_mode": true,
+    "pixel_metrics": false,
+    "conditions": [
+      [
+        "clean",
+        0
+      ],
+      [
+        "brightness",
+        5
+      ],
+      [
+        "contrast",
+        5
+      ],
+      [
+        "directional_shading",
+        5
+      ]
+    ],
+    "baseline_config": "/workspace/notebooks/configs/baseline_cpu.yaml",
+    "note": "B1 train source only; thresholds source_val only; evaluate target_test"
+  },
+  "results_count": 24,
+  "bank_sizes": {
+    "bottle": 256,
+    "carpet": 256,
+    "metal_nut": 256
+  },
+  "next": "05_B4_adapter_cpu"
+}

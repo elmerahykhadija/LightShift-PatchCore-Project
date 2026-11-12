@@ -1,0 +1,4 @@
+category,train_images,candidate_patches,coreset_patches,bank_MB,build_seconds
+bottle,80,5120,256,0.375,16.25
+carpet,80,5120,256,0.375,18.2
+metal_nut,80,5120,256,0.375,13.9

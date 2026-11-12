@@ -1,0 +1,402 @@
+[
+  {
+    "source": "bottle/train/good/092.png",
+    "kind": "gamma",
+    "severity": 1
+  },
+  {
+    "source": "bottle/train/good/038.png",
+    "kind": "gamma",
+    "severity": 3
+  },
+  {
+    "source": "bottle/train/good/026.png",
+    "kind": "color_temperature",
+    "severity": 1
+  },
+  {
+    "source": "bottle/train/good/197.png",
+    "kind": "contrast",
+    "severity": 1
+  },
+  {
+    "source": "bottle/train/good/020.png",
+    "kind": "brightness",
+    "severity": 1
+  },
+  {
+    "source": "bottle/train/good/054.png",
+    "kind": "color_temperature",
+    "severity": 5
+  },
+  {
+    "source": "bottle/train/good/156.png",
+    "kind": "directional_shading",
+    "severity": 5
+  },
+  {
+    "source": "bottle/train/good/138.png",
+    "kind": "color_temperature",
+    "severity": 3
+  },
+  {
+    "source": "bottle/train/good/024.png",
+    "kind": "contrast",
+    "severity": 5
+  },
+  {
+    "source": "bottle/train/good/128.png",
+    "kind": "brightness",
+    "severity": 5
+  },
+  {
+    "source": "bottle/train/good/084.png",
+    "kind": "contrast",
+    "severity": 3
+  },
+  {
+    "source": "bottle/train/good/177.png",
+    "kind": "directional_shading",
+    "severity": 1
+  },
+  {
+    "source": "bottle/train/good/050.png",
+    "kind": "brightness",
+    "severity": 3
+  },
+  {
+    "source": "bottle/train/good/170.png",
+    "kind": "directional_shading",
+    "severity": 3
+  },
+  {
+    "source": "bottle/train/good/037.png",
+    "kind": "gamma",
+    "severity": 5
+  },
+  {
+    "source": "bottle/train/good/154.png",
+    "kind": "gamma",
+    "severity": 1
+  },
+  {
+    "source": "bottle/train/good/146.png",
+    "kind": "gamma",
+    "severity": 3
+  },
+  {
+    "source": "bottle/train/good/004.png",
+    "kind": "color_temperature",
+    "severity": 1
+  },
+  {
+    "source": "bottle/train/good/033.png",
+    "kind": "contrast",
+    "severity": 1
+  },
+  {
+    "source": "bottle/train/good/003.png",
+    "kind": "brightness",
+    "severity": 1
+  },
+  {
+    "source": "bottle/train/good/180.png",
+    "kind": "color_temperature",
+    "severity": 5
+  },
+  {
+    "source": "bottle/train/good/086.png",
+    "kind": "directional_shading",
+    "severity": 5
+  },
+  {
+    "source": "bottle/train/good/068.png",
+    "kind": "color_temperature",
+    "severity": 3
+  },
+  {
+    "source": "bottle/train/good/108.png",
+    "kind": "contrast",
+    "severity": 5
+  },
+  {
+    "source": "bottle/train/good/196.png",
+    "kind": "brightness",
+    "severity": 5
+  },
+  {
+    "source": "bottle/train/good/079.png",
+    "kind": "contrast",
+    "severity": 3
+  },
+  {
+    "source": "bottle/train/good/118.png",
+    "kind": "directional_shading",
+    "severity": 1
+  },
+  {
+    "source": "bottle/train/good/119.png",
+    "kind": "brightness",
+    "severity": 3
+  },
+  {
+    "source": "bottle/train/good/207.png",
+    "kind": "directional_shading",
+    "severity": 3
+  },
+  {
+    "source": "bottle/train/good/120.png",
+    "kind": "gamma",
+    "severity": 5
+  },
+  {
+    "source": "bottle/train/good/151.png",
+    "kind": "gamma",
+    "severity": 1
+  },
+  {
+    "source": "bottle/train/good/184.png",
+    "kind": "gamma",
+    "severity": 3
+  },
+  {
+    "source": "bottle/train/good/098.png",
+    "kind": "color_temperature",
+    "severity": 1
+  },
+  {
+    "source": "bottle/train/good/089.png",
+    "kind": "contrast",
+    "severity": 1
+  },
+  {
+    "source": "bottle/train/good/032.png",
+    "kind": "brightness",
+    "severity": 1
+  },
+  {
+    "source": "bottle/train/good/070.png",
+    "kind": "color_temperature",
+    "severity": 5
+  },
+  {
+    "source": "bottle/train/good/094.png",
+    "kind": "directional_shading",
+    "severity": 5
+  },
+  {
+    "source": "bottle/train/good/052.png",
+    "kind": "color_temperature",
+    "severity": 3
+  },
+  {
+    "source": "bottle/train/good/028.png",
+    "kind": "contrast",
+    "severity": 5
+  },
+  {
+    "source": "bottle/train/good/000.png",
+    "kind": "brightness",
+    "severity": 5
+  },
+  {
+    "source": "bottle/train/good/199.png",
+    "kind": "contrast",
+    "severity": 3
+  },
+  {
+    "source": "bottle/train/good/126.png",
+    "kind": "directional_shading",
+    "severity": 1
+  },
+  {
+    "source": "bottle/train/good/082.png",
+    "kind": "brightness",
+    "severity": 3
+  },
+  {
+    "source": "bottle/train/good/157.png",
+    "kind": "directional_shading",
+    "severity": 3
+  },
+  {
+    "source": "bottle/train/good/203.png",
+    "kind": "gamma",
+    "severity": 5
+  },
+  {
+    "source": "bottle/train/good/168.png",
+    "kind": "gamma",
+    "severity": 1
+  },
+  {
+    "source": "bottle/train/good/107.png",
+    "kind": "gamma",
+    "severity": 3
+  },
+  {
+    "source": "bottle/train/good/198.png",
+    "kind": "color_temperature",
+    "severity": 1
+  },
+  {
+    "source": "bottle/train/good/085.png",
+    "kind": "contrast",
+    "severity": 1
+  },
+  {
+    "source": "bottle/train/good/048.png",
+    "kind": "brightness",
+    "severity": 1
+  },
+  {
+    "source": "bottle/train/good/200.png",
+    "kind": "color_temperature",
+    "severity": 5
+  },
+  {
+    "source": "bottle/train/good/121.png",
+    "kind": "directional_shading",
+    "severity": 5
+  },
+  {
+    "source": "bottle/train/good/114.png",
+    "kind": "color_temperature",
+    "severity": 3
+  },
+  {
+    "source": "bottle/train/good/208.png",
+    "kind": "contrast",
+    "severity": 5
+  },
+  {
+    "source": "bottle/train/good/090.png",
+    "kind": "brightness",
+    "severity": 5
+  },
+  {
+    "source": "bottle/train/good/132.png",
+    "kind": "contrast",
+    "severity": 3
+  },
+  {
+    "source": "bottle/train/good/018.png",
+    "kind": "directional_shading",
+    "severity": 1
+  },
+  {
+    "source": "bottle/train/good/143.png",
+    "kind": "brightness",
+    "severity": 3
+  },
+  {
+    "source": "bottle/train/good/127.png",
+    "kind": "directional_shading",
+    "severity": 3
+  },
+  {
+    "source": "bottle/train/good/135.png",
+    "kind": "gamma",
+    "severity": 5
+  },
+  {
+    "source": "bottle/train/good/187.png",
+    "kind": "gamma",
+    "severity": 1
+  },
+  {
+    "source": "bottle/train/good/072.png",
+    "kind": "gamma",
+    "severity": 3
+  },
+  {
+    "source": "bottle/train/good/201.png",
+    "kind": "color_temperature",
+    "severity": 1
+  },
+  {
+    "source": "bottle/train/good/111.png",
+    "kind": "contrast",
+    "severity": 1
+  },
+  {
+    "source": "bottle/train/good/100.png",
+    "kind": "brightness",
+    "severity": 1
+  },
+  {
+    "source": "bottle/train/good/073.png",
+    "kind": "color_temperature",
+    "severity": 5
+  },
+  {
+    "source": "bottle/train/good/093.png",
+    "kind": "directional_shading",
+    "severity": 5
+  },
+  {
+    "source": "bottle/train/good/095.png",
+    "kind": "color_temperature",
+    "severity": 3
+  },
+  {
+    "source": "bottle/train/good/087.png",
+    "kind": "contrast",
+    "severity": 5
+  },
+  {
+    "source": "bottle/train/good/065.png",
+    "kind": "brightness",
+    "severity": 5
+  },
+  {
+    "source": "bottle/train/good/099.png",
+    "kind": "contrast",
+    "severity": 3
+  },
+  {
+    "source": "bottle/train/good/071.png",
+    "kind": "directional_shading",
+    "severity": 1
+  },
+  {
+    "source": "bottle/train/good/153.png",
+    "kind": "brightness",
+    "severity": 3
+  },
+  {
+    "source": "bottle/train/good/206.png",
+    "kind": "directional_shading",
+    "severity": 3
+  },
+  {
+    "source": "bottle/train/good/074.png",
+    "kind": "gamma",
+    "severity": 5
+  },
+  {
+    "source": "bottle/train/good/010.png",
+    "kind": "gamma",
+    "severity": 1
+  },
+  {
+    "source": "bottle/train/good/116.png",
+    "kind": "gamma",
+    "severity": 3
+  },
+  {
+    "source": "bottle/train/good/149.png",
+    "kind": "color_temperature",
+    "severity": 1
+  },
+  {
+    "source": "bottle/train/good/063.png",
+    "kind": "contrast",
+    "severity": 1
+  },
+  {
+    "source": "bottle/train/good/001.png",
+    "kind": "brightness",
+    "severity": 1
+  }
+]

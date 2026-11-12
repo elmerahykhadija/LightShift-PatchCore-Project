@@ -1,0 +1,402 @@
+[
+  {
+    "source": "metal_nut/train/good/026.png",
+    "kind": "gamma",
+    "severity": 1
+  },
+  {
+    "source": "metal_nut/train/good/171.png",
+    "kind": "gamma",
+    "severity": 3
+  },
+  {
+    "source": "metal_nut/train/good/170.png",
+    "kind": "color_temperature",
+    "severity": 1
+  },
+  {
+    "source": "metal_nut/train/good/216.png",
+    "kind": "contrast",
+    "severity": 1
+  },
+  {
+    "source": "metal_nut/train/good/162.png",
+    "kind": "brightness",
+    "severity": 1
+  },
+  {
+    "source": "metal_nut/train/good/166.png",
+    "kind": "color_temperature",
+    "severity": 5
+  },
+  {
+    "source": "metal_nut/train/good/079.png",
+    "kind": "directional_shading",
+    "severity": 5
+  },
+  {
+    "source": "metal_nut/train/good/070.png",
+    "kind": "color_temperature",
+    "severity": 3
+  },
+  {
+    "source": "metal_nut/train/good/054.png",
+    "kind": "contrast",
+    "severity": 5
+  },
+  {
+    "source": "metal_nut/train/good/207.png",
+    "kind": "brightness",
+    "severity": 5
+  },
+  {
+    "source": "metal_nut/train/good/127.png",
+    "kind": "contrast",
+    "severity": 3
+  },
+  {
+    "source": "metal_nut/train/good/020.png",
+    "kind": "directional_shading",
+    "severity": 1
+  },
+  {
+    "source": "metal_nut/train/good/152.png",
+    "kind": "brightness",
+    "severity": 3
+  },
+  {
+    "source": "metal_nut/train/good/038.png",
+    "kind": "directional_shading",
+    "severity": 3
+  },
+  {
+    "source": "metal_nut/train/good/025.png",
+    "kind": "gamma",
+    "severity": 5
+  },
+  {
+    "source": "metal_nut/train/good/084.png",
+    "kind": "gamma",
+    "severity": 1
+  },
+  {
+    "source": "metal_nut/train/good/046.png",
+    "kind": "gamma",
+    "severity": 3
+  },
+  {
+    "source": "metal_nut/train/good/086.png",
+    "kind": "color_temperature",
+    "severity": 1
+  },
+  {
+    "source": "metal_nut/train/good/075.png",
+    "kind": "contrast",
+    "severity": 1
+  },
+  {
+    "source": "metal_nut/train/good/124.png",
+    "kind": "brightness",
+    "severity": 1
+  },
+  {
+    "source": "metal_nut/train/good/088.png",
+    "kind": "color_temperature",
+    "severity": 5
+  },
+  {
+    "source": "metal_nut/train/good/178.png",
+    "kind": "directional_shading",
+    "severity": 5
+  },
+  {
+    "source": "metal_nut/train/good/135.png",
+    "kind": "color_temperature",
+    "severity": 3
+  },
+  {
+    "source": "metal_nut/train/good/126.png",
+    "kind": "contrast",
+    "severity": 5
+  },
+  {
+    "source": "metal_nut/train/good/157.png",
+    "kind": "brightness",
+    "severity": 5
+  },
+  {
+    "source": "metal_nut/train/good/209.png",
+    "kind": "contrast",
+    "severity": 3
+  },
+  {
+    "source": "metal_nut/train/good/149.png",
+    "kind": "directional_shading",
+    "severity": 1
+  },
+  {
+    "source": "metal_nut/train/good/003.png",
+    "kind": "brightness",
+    "severity": 3
+  },
+  {
+    "source": "metal_nut/train/good/029.png",
+    "kind": "directional_shading",
+    "severity": 3
+  },
+  {
+    "source": "metal_nut/train/good/191.png",
+    "kind": "gamma",
+    "severity": 5
+  },
+  {
+    "source": "metal_nut/train/good/072.png",
+    "kind": "gamma",
+    "severity": 1
+  },
+  {
+    "source": "metal_nut/train/good/138.png",
+    "kind": "gamma",
+    "severity": 3
+  },
+  {
+    "source": "metal_nut/train/good/107.png",
+    "kind": "color_temperature",
+    "severity": 1
+  },
+  {
+    "source": "metal_nut/train/good/214.png",
+    "kind": "contrast",
+    "severity": 1
+  },
+  {
+    "source": "metal_nut/train/good/094.png",
+    "kind": "brightness",
+    "severity": 1
+  },
+  {
+    "source": "metal_nut/train/good/112.png",
+    "kind": "color_temperature",
+    "severity": 5
+  },
+  {
+    "source": "metal_nut/train/good/144.png",
+    "kind": "directional_shading",
+    "severity": 5
+  },
+  {
+    "source": "metal_nut/train/good/056.png",
+    "kind": "color_temperature",
+    "severity": 3
+  },
+  {
+    "source": "metal_nut/train/good/089.png",
+    "kind": "contrast",
+    "severity": 5
+  },
+  {
+    "source": "metal_nut/train/good/108.png",
+    "kind": "brightness",
+    "severity": 5
+  },
+  {
+    "source": "metal_nut/train/good/156.png",
+    "kind": "contrast",
+    "severity": 3
+  },
+  {
+    "source": "metal_nut/train/good/066.png",
+    "kind": "directional_shading",
+    "severity": 1
+  },
+  {
+    "source": "metal_nut/train/good/052.png",
+    "kind": "brightness",
+    "severity": 3
+  },
+  {
+    "source": "metal_nut/train/good/028.png",
+    "kind": "directional_shading",
+    "severity": 3
+  },
+  {
+    "source": "metal_nut/train/good/012.png",
+    "kind": "gamma",
+    "severity": 5
+  },
+  {
+    "source": "metal_nut/train/good/212.png",
+    "kind": "gamma",
+    "severity": 1
+  },
+  {
+    "source": "metal_nut/train/good/150.png",
+    "kind": "gamma",
+    "severity": 3
+  },
+  {
+    "source": "metal_nut/train/good/198.png",
+    "kind": "color_temperature",
+    "severity": 1
+  },
+  {
+    "source": "metal_nut/train/good/062.png",
+    "kind": "contrast",
+    "severity": 1
+  },
+  {
+    "source": "metal_nut/train/good/082.png",
+    "kind": "brightness",
+    "severity": 1
+  },
+  {
+    "source": "metal_nut/train/good/096.png",
+    "kind": "color_temperature",
+    "severity": 5
+  },
+  {
+    "source": "metal_nut/train/good/039.png",
+    "kind": "directional_shading",
+    "severity": 5
+  },
+  {
+    "source": "metal_nut/train/good/200.png",
+    "kind": "color_temperature",
+    "severity": 3
+  },
+  {
+    "source": "metal_nut/train/good/195.png",
+    "kind": "contrast",
+    "severity": 5
+  },
+  {
+    "source": "metal_nut/train/good/013.png",
+    "kind": "brightness",
+    "severity": 5
+  },
+  {
+    "source": "metal_nut/train/good/174.png",
+    "kind": "contrast",
+    "severity": 3
+  },
+  {
+    "source": "metal_nut/train/good/120.png",
+    "kind": "directional_shading",
+    "severity": 1
+  },
+  {
+    "source": "metal_nut/train/good/132.png",
+    "kind": "brightness",
+    "severity": 3
+  },
+  {
+    "source": "metal_nut/train/good/085.png",
+    "kind": "directional_shading",
+    "severity": 3
+  },
+  {
+    "source": "metal_nut/train/good/059.png",
+    "kind": "gamma",
+    "severity": 5
+  },
+  {
+    "source": "metal_nut/train/good/192.png",
+    "kind": "gamma",
+    "severity": 1
+  },
+  {
+    "source": "metal_nut/train/good/154.png",
+    "kind": "gamma",
+    "severity": 3
+  },
+  {
+    "source": "metal_nut/train/good/173.png",
+    "kind": "color_temperature",
+    "severity": 1
+  },
+  {
+    "source": "metal_nut/train/good/188.png",
+    "kind": "contrast",
+    "severity": 1
+  },
+  {
+    "source": "metal_nut/train/good/114.png",
+    "kind": "brightness",
+    "severity": 1
+  },
+  {
+    "source": "metal_nut/train/good/155.png",
+    "kind": "color_temperature",
+    "severity": 5
+  },
+  {
+    "source": "metal_nut/train/good/083.png",
+    "kind": "directional_shading",
+    "severity": 5
+  },
+  {
+    "source": "metal_nut/train/good/123.png",
+    "kind": "color_temperature",
+    "severity": 3
+  },
+  {
+    "source": "metal_nut/train/good/045.png",
+    "kind": "contrast",
+    "severity": 5
+  },
+  {
+    "source": "metal_nut/train/good/103.png",
+    "kind": "brightness",
+    "severity": 5
+  },
+  {
+    "source": "metal_nut/train/good/111.png",
+    "kind": "contrast",
+    "severity": 3
+  },
+  {
+    "source": "metal_nut/train/good/143.png",
+    "kind": "directional_shading",
+    "severity": 1
+  },
+  {
+    "source": "metal_nut/train/good/021.png",
+    "kind": "brightness",
+    "severity": 3
+  },
+  {
+    "source": "metal_nut/train/good/183.png",
+    "kind": "directional_shading",
+    "severity": 3
+  },
+  {
+    "source": "metal_nut/train/good/196.png",
+    "kind": "gamma",
+    "severity": 5
+  },
+  {
+    "source": "metal_nut/train/good/204.png",
+    "kind": "gamma",
+    "severity": 1
+  },
+  {
+    "source": "metal_nut/train/good/117.png",
+    "kind": "gamma",
+    "severity": 3
+  },
+  {
+    "source": "metal_nut/train/good/151.png",
+    "kind": "color_temperature",
+    "severity": 1
+  },
+  {
+    "source": "metal_nut/train/good/116.png",
+    "kind": "contrast",
+    "severity": 1
+  },
+  {
+    "source": "metal_nut/train/good/063.png",
+    "kind": "brightness",
+    "severity": 1
+  }
+]
