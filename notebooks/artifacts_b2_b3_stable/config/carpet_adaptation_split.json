@@ -1,0 +1,48 @@
+{
+  "source_stats": [
+    "carpet/train/good/202.png",
+    "carpet/train/good/003.png",
+    "carpet/train/good/261.png",
+    "carpet/train/good/037.png",
+    "carpet/train/good/131.png",
+    "carpet/train/good/143.png",
+    "carpet/train/good/000.png",
+    "carpet/train/good/121.png",
+    "carpet/train/good/207.png",
+    "carpet/train/good/185.png",
+    "carpet/train/good/021.png",
+    "carpet/train/good/151.png"
+  ],
+  "b2_alignment": [
+    "carpet/train/good/006.png",
+    "carpet/train/good/195.png",
+    "carpet/train/good/139.png",
+    "carpet/train/good/016.png",
+    "carpet/train/good/036.png",
+    "carpet/train/good/243.png",
+    "carpet/train/good/136.png",
+    "carpet/train/good/049.png"
+  ],
+  "b3_calibration": [
+    "carpet/train/good/256.png",
+    "carpet/train/good/175.png",
+    "carpet/train/good/023.png",
+    "carpet/train/good/110.png",
+    "carpet/train/good/194.png",
+    "carpet/train/good/022.png",
+    "carpet/train/good/259.png",
+    "carpet/train/good/182.png",
+    "carpet/train/good/269.png",
+    "carpet/train/good/141.png",
+    "carpet/train/good/247.png",
+    "carpet/train/good/041.png",
+    "carpet/train/good/237.png",
+    "carpet/train/good/245.png",
+    "carpet/train/good/035.png",
+    "carpet/train/good/164.png",
+    "carpet/train/good/031.png",
+    "carpet/train/good/060.png",
+    "carpet/train/good/102.png",
+    "carpet/train/good/176.png"
+  ]
+}
